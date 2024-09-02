@@ -47,7 +47,7 @@ sudo pip3 install adafruit-circuitpython-servokit
 ### Usage
 1. Cloning the Repository
 ```
-git clone https://github.com/caulesti/k9-buddy.git
+git clone https://github.com/RAMEL-ESPOL/K9-BUDDY.git
 ```
 2. Grant permissions to the script
 ```
