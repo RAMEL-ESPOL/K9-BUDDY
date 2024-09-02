@@ -51,9 +51,9 @@ git clone https://github.com/RAMEL-ESPOL/K9-BUDDY.git
 ```
 2. Grant permissions to the script
 ```
-chmod +x k9-buddy/software/k9_buddy.py
+chmod +x K9-BUDDY/software/k9_buddy.py
 ```
 3. Execution
 ```
-python3 k9-buddy/software/k9_buddy.py
+python3 K9-BUDDY/software/k9_buddy.py
 ```
